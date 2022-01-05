@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SendEmail</string>
+    <string name="send">Send an email using Intent</string>
+    <string name="enter_email_address">Email address</string>
+    <string name="title">Title</string>
+    <string name="send_text">Send</string>
+    <string name="des">Message</string>
+    <string name="en_title">Enter title</string>
+    <string name="en_des">Enter description</string>
+    <string name="en_email">Enter email address</string>
+</resources>
